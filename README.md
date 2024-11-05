@@ -7,9 +7,6 @@ I’m a passionate Java developer with over 3 years of experience in building sc
 I believe in continuous learning and improvement. Currently, I'm diving deeper into:
 - Spring Boot for creating production-ready applications
 - Microservices architecture to design distributed systems
-- Cloud technologies, particularly AWS and Azure, for scalable solutions
-- Exploring Kotlin as a modern alternative to Java
-- Proficient in multithreading and master in VIRTUAL THREADING.
 
 ## 💞️ Looking to Collaborate On
 I'm always open to collaborating on innovative projects that push the boundaries of technology. Specifically, I'm interested in:
